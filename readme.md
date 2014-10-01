@@ -1,5 +1,9 @@
-* Software and Programming 2
+Software and Programming 2
+=====
 
-** Coursework 1
+Coursework 1
+-----
+
+
 
 
