@@ -1,3 +1,6 @@
+/**
+  @author Stefan Tworogal
+*/
 import java.util.Scanner;
 import java.util.Arrays;
 public class CourseWork1 {
