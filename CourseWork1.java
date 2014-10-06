@@ -1,13 +1,13 @@
 /** 
     A program that takes two user input arrays and carries out the following
     operations:
-    Takes user input for two arrays excluding duplicated values.
+    Takes user input for two arrays  *excluding duplicated values.
     Displays the values for the first array.
     Displays the values for the second array.
     Displays that occur in both arrays.
     Lists the values that only occur in the first array.
     Lists the values that only occur in the second array.
-    
+    * This is not implemented.
     @author Stefan Tworogal
     @version 2.
 
